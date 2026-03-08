@@ -1,0 +1,14 @@
+{
+  "appId": "com.zvoom.game",
+  "appName": "ZVOOM",
+  "webDir": "www",
+  "android": {
+    "buildOptions": {
+      "keystorePath": "zvoom.keystore",
+      "keystorePassword": "zvoom2024",
+      "keystoreAlias": "zvoom",
+      "keystoreAliasPassword": "zvoom2024",
+      "releaseType": "APK"
+    }
+  }
+}

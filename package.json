@@ -1,0 +1,14 @@
+{
+  "name": "zvoom",
+  "version": "1.0.0",
+  "description": "ZVOOM Dodge Game",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'no build needed'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/cli": "^6.0.0"
+  }
+}
